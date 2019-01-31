@@ -6,9 +6,9 @@ title: "Amanda Blue Zheutlin"
 
 <img src="images/amanda.jpg" style="width:25%; border:10px solid; margin-right: 20px" align="left">
 
-I am a postdoctoral research fellow in the Psychiatric and Neurodevelopmental Genetics Unit at [Massachusetts General Hospital](https://www.massgeneral.org/psychiatry/research/researchlab.aspx?id=1747&display=faculty) with [Jordan Smoller](https://twitter.com/jorsmo).
+I am a postdoctoral research fellow in the [Psychiatric and Neurodevelopmental Genetics Unit](https://www.massgeneral.org/psychiatry/research/researchlab.aspx?id=1747&display=faculty) at Massachusetts General Hospital with [Jordan Smoller](https://twitter.com/jorsmo).
 
-I am working to detect untreated and undiagnosed patients at high risk for psychiatric illnesses and suicide to enable prevention and early intervention. I use clinical data from millions of patients' electronic health records and genetic data collected through biobanks to build accurate, generalizable models that can work in real world healthcare settings. Work at this scale is possible through collaborations with many other hospital systems across the country including Vanderbilt University Medical Center, Geisinger Health System, and Mount Sinai Health System. 
+I am working to detect untreated and undiagnosed patients at high risk for psychiatric illnesses and suicide to enable prevention and early intervention. I use clinical data from millions of patients' electronic health records and genetic data collected through biobanks to build accurate, generalizable models that can work in real world healthcare settings. Work at this scale is possible through collaborations with many other healthcare systems across the country including [Vanderbilt](https://victr.vanderbilt.edu/pub/biovu/), [Geisinger](https://www.geisinger.org/mycode), and [Mount Sinai](https://icahn.mssm.edu/research/ipm/programs/biome-biobank). 
 
 I earned my PhD from [Yale University](https://psychology.yale.edu/) in psychology in 2017. In graduate school, I worked with [Ty Cannon](https://campuspress.yale.edu/cannonlab/) to investigate how genes affect cognition and brain development in individuals at high risk for psychosis.
 

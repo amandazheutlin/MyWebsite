@@ -4,8 +4,6 @@ navbar:
   left:
     - text: "Home"
       href: index.html
-    - text: "Lucy"
-      href: lucy.html   
     - text: "About Me"
       href: about.html 
     - text: "Invited Talks"
@@ -18,11 +16,11 @@ navbar:
       href: cv.html      
   right:
     - icon: fa-github fa-lg
-      href: http://github.com/zabore
+      href: http://github.com/amandazheutlin
     - icon: fa-twitter fa-lg
-      href: https://twitter.com/zabormetrics
+      href: https://twitter.com/amandabluezzz
     - icon: fa-linkedin fa-lg
-      href: https://www.linkedin.com/in/emily-zabor-59b902b7/
+      href: https://www.linkedin.com/in/amanda-zheutlin-phd-201a4533/
 output:
   html_document:
     theme: cosmo
