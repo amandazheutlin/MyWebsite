@@ -1,4 +1,5 @@
 name: "amanda-zheutlin"
+output_dir: "."
 navbar:
   left:
     - text: "Home"
