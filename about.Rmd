@@ -1,0 +1,32 @@
+---
+title: "Publications"
+---
+
+Zheutlin AB, Dennis J, Restrepo N, Straub P, Ruderfer D, Castro VM, Kirchner HL, Chabris CF, Davis L, & Smoller JW. (submitted). Penetrance and pleiotropy of polygenic risk scores for schizophrenia in 90,000 patients across three healthcare systems. 
+
+Chekroud SR, Gueorguieva R, Zheutlin AB, Paulus M, Krumholz HM, Krystal JH, & Chekroud AM. (2018). Association between physical activity and mental health: a cross-sectional study of 1.2M individuals in the USA between 2011 and 2015. Lancet Psychiatry.
+
+Zheutlin AB, & Ross DA. (2018). Polygenic risk scores: What are they good for? Biological Psychiatry, 8, e51-e53.
+
+Chekroud AM, Foster D, Zheutlin AB, Gerhard D, Roy B, Koutsouleris N, Chandra A, Esposti MD, Subramanyan G, Gueorguieva R, Paulus M, & Krystal JH. (2018). Predicting barriers to treatment for depression in a US national sample: a cross-sectional, proof-of-concept study. Psychiatric Services.
+
+Reed JL, D’Ambrosio E, Marenco S, Ursini G, Zheutlin AB, Blasi G, Spencer BE, Romano R, Hochheiser J, Reifman A, Sturm J, Berman KF, Bertolino A, Weinberger DR, Callicott JH. (2018). Interaction of childhood urbanicity and variation in dopamine genes alters adult prefrontal function as measured by functional magnetic resonance imaging (fMRI). PLOS ONE, 13, e0195189.
+
+Zheutlin AB*, Chekroud AM*, Polimanti R, Gelernter J, Sabb FW, Bilder RM, Freimer N, London E, Hultman C, & Cannon TD. (2018). Multivariate pattern analysis of genotype-phenotype relationships in schizophrenia. Schizophrenia Bulletin.
+
+Allswede D, Zheutlin A, Chung Y, Anderson K, Hultman CM, Ingvar M, & Cannon TD. (2018). Complement gene expression predicts superior temporal cortical thickness in humans. Neuropsychopharmacology, 43, 525-533.
+
+Bradshaw NJ, Pankakoski M, Ukkola-Vuoti L, Zheutlin AB, Ortega-Alonso A, Torniainen-Holm M, Sinha V, Therman S, Paunio T, Suvisaari J, Lonnqvist J, Cannon TD, Haukka J, & Hennah W. (2017). The NDE1 genomic locus affects treatment of psychiatric illness through gene expression changes related to microRNA-484. Open Biology, 7, 170153.
+
+Gupta R, Qaiser B, He L, Hiekkalinna TS, Zheutlin AB, Therman S, Ollikainen M, Ripatti S, Perola M, Salomaa V, Milani L, Cannon TD, Madden PAF, Korhonen T, Kaprio J, & Loukola A. (2017). Neuregulin signaling pathway in smoking behavior. Translational Psychiatry, 7, e1212. 
+
+Zheutlin AB, Jeffries CD, Perkins DO, Chung Y, Chekroud AM, Addington J, Bearden CE, Cadenhead KS, Cornblatt BA, Mathalon DH, McGlashan TH, Seidman LJ, Walker EF, Woods SW, Tsuang M, & Cannon TD. (2017). The role of miRNA expression in cortical development during conversion to psychosis. Neuropsychopharmacology, 42, 2188-2195.
+
+Zheutlin AB, Fortgang R, & Cannon TD. (2016). Genetics of schizophrenia. In SC Schulz, MF Green, & KJ Nelson (Eds.), Primer On: Schizophrenia and Psychotic Spectrum Disorders. New York: Oxford University Press. 
+
+Zheutlin AB*, Viehman RW*, Fortgang R, Borg J, Smith DJ, Suvisaari J, Therman S, Hultman CM, & Cannon TD. (2016). Cognitive endophenotypes inform genome-wide expression profiling in schizophrenia and bipolar disorder. Neuropsychology, 30, 40-52.
+
+Compton RJ, Hofheimer J, Kazinka R, Levinson A, & Zheutlin A. (2013). Alpha suppression following performance errors is correlated with depression, affect, and coping behaviors. Emotion, 13, 905-914.
+
+Compton RJ, Huber E, Levinson AR, & Zheutlin A. (2012).  Is “conflict adaptation” driven by conflict? Behavioral and EEG evidence for the underappreciated role of congruent trials. Psychophysiology, 49, 583-589. 
+
