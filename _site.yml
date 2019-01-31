@@ -1,4 +1,4 @@
-name: "Amanda Zheutlin"
+name: "amanda-zheutlin"
 navbar:
   left:
     - text: "Home"
@@ -26,4 +26,4 @@ output:
   html_document:
     theme: cosmo
     highlight: textmate
-    css: 'styles.css'
+    css: 'style.css'
